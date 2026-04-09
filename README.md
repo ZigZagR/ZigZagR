@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-!alt text https://www.wallpaper.cam/2024/08/anime-linux-open-source-arch-linux-4k.html?m=1
+![Alt text](https://imgs.search.brave.com/M-g4iku1TiXUlMZTaK4PGd-ZZRSEadYbvOsEVsMvGFU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL2Qv/MWFjaWFaVndiR0M3/RkxXZHhYWExpWmNj/U1BnblNsQXhzPWM)
