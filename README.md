@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/ZigZagR">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZigZagR&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ZigZagR&layout=compact&langs_count=7&theme=dracula](https://www.wallpaper.cam/2024/08/anime-linux-open-source-arch-linux-4k.html?m=1)"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ZigZagR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
